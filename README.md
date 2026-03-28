@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+I%27m+Jana+Alruzuq!%F0%9F%91%8B;AI+%26+Data+Science+Engineer.;IEEE+Paper+%C2%B7+WiDS+2026.;Building+AI+that+actually+ships."
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+I%27m+Jana+Alruzuq!%F0%9F%91%8B;AI+%26+Data+Science+Engineer.;Building+AI+that+actually+ships."
        alt="Typing SVG" />
 </h1>
 
