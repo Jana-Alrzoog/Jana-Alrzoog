@@ -1,54 +1,42 @@
-<!-- 💫 شخصية متحركة -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/jana-avatar.gif" width="180" alt="jana-avatar"/>
-</p>
 
-<!-- 💫 العنوان المتحرك -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+I'm+Jana+Alruzuq!;Senior+IT+Student+-+AI+%26+Data+Science+Track.;Passionate+about+ML%2C+Data+Analysis+%26+Learning+New+Tech." alt="Typing SVG" />
-</p>
+Jana Alruzuq
 
----
-
-### 💁‍♀️ About Me
-
-- 🎓 I’m a **senior Information Technology student** at *King Saud University*, specializing in **Artificial Intelligence and Data Science**.
-- 📊 Passionate about **data analysis** and building **machine learning models** to extract real-world insights.
-- 🌱 Always curious to explore new technologies and tools in AI & data.
-- 💻 Currently working with **Python**, **Power BI**, **MongoDB**, and **Tableau**.
-- 📬 Reach me at: [jana.a.alruzuq@gmail.com](mailto:jana.a.alruzuq@gmail.com)
-
----
-
-### 💼 My Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+  AI & Data Science · King Saud University · Riyadh
+  
 
 
 ---
 
-### 📊 GitHub Stats
-
-![Jana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jana-Alrzoog&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-Alrzoog&layout=compact&theme=radical)
+## About
+AI & Data Science student building systems that actually ship —  
+from a published iOS app to an IEEE-accepted paper (WiDS 2026).  
+Focused on ML, computer vision, NLP, and full-stack AI.
 
 ---
 
-### 📫 Connect With Me
+## Highlights
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🚇 **Digital Twin · Riyadh Metro** | XGBoost, LSTM, SARIMA + AI chatbot + Lost & Found matching | Grad Project |
+| 📱 **Halah — App Store** | CoreML voice-tone analysis for personalized task sessions | Live |
+| 📄 **IEEE Paper · WiDS 2026** | Passenger flow forecasting on synthetic metro data | Published |
+| 🔬 **LLM Bias Analysis** | Demographic bias in Qwen2, Mistral, LLaMA3 · ROUGE + BERTScore | NLP Research |
 
-<p align="center">
-  <a href="mailto:jana.a.alruzuq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/janaalruzuq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jana-alruzuq-9b3165312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+---
+
+## Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+---
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jana-alruzuq-9b3165312)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/janaalruzuq)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jana.a.alruzuq@gmail.com)
