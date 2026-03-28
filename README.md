@@ -9,9 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jana-alruzuq-9b3165312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/janaalruzuq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:jana.a.alruzuq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jana-alruzuq-9b3165312">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Jana-Alrzoog">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:jana.a.alruzuq@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -23,12 +26,13 @@
 - 📄 Published researcher — **IEEE paper accepted & presented at WiDS 2026**.
 - 📱 Built and published **"Halah"** on the App Store using CoreML & voice-tone analysis.
 - 🚇 Currently building a **Digital Twin for Riyadh Metro** — multi-model forecasting + AI chatbot + Lost & Found system.
+- 💡 25+ repositories spanning ML pipelines, full-stack apps, computer vision & NLP research.
 - 🌱 Always exploring the frontier of **LLMs, RAG, and generative AI**.
 - 📬 Reach me at: [jana.a.alruzuq@gmail.com](mailto:jana.a.alruzuq@gmail.com)
 
 ---
 
-### 🧠 AI & ML Skills
+### 🧠 AI & ML
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -62,26 +66,18 @@
 
 ---
 
-### 🏆 Highlights
-
-| | Project | Description | Status |
-|--|---------|-------------|--------|
-| 📄 | **IEEE Paper · WiDS 2026** | Passenger flow forecasting for Riyadh Metro using multi-model ML on synthetic mobility data | Published |
-| 📱 | **Halah — App Store** | AI-powered iOS app — CoreML voice-tone analysis for personalized task sessions | Live |
-| 🚇 | **Digital Twin · Riyadh Metro** | XGBoost + LSTM + SARIMA · AI chatbot · Lost & Found feature matching | Grad Project |
-| 🔬 | **LLM Bias Analysis** | Demographic bias in Qwen2, Mistral & LLaMA3 summaries — ROUGE + BERTScore + Wilcoxon | Research |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jana-Alrzoog&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-Alrzoog&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jana-Alrzoog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+       height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-Alrzoog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+       height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jana-Alrzoog&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jana-Alrzoog&theme=tokyonight&hide_border=true"
+       height="160"/>
 </p>
 
 ---
